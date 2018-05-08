@@ -19,16 +19,20 @@ hr {
   color: rgba(255, 255, 255, 0.8); 
 }
 
+div.col-lg-12 {
+  text-align: center;
+}
+
 header.startup {
   background-position: center;
   background-image: url("header.jpg");
   background-size: cover;
   height: 100%;
+  padding-top: 300px;
 }
 
 header.startup hr {
-  margin-top: 200px;
-  margin-bottom: 30px; 
+  margin-top: 360px;
 }
 
 header.startup h1 {
